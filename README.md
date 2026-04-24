@@ -11,7 +11,7 @@ The current version focuses on **frontend functionality and form validation**, w
 
 ## 🛠️ Technologies Used
 
-* HTML5
+* H
 * CSS3
 * JavaScript
 * (Future) PHP
