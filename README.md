@@ -3,7 +3,7 @@
 ## 📌 About the Project
 
 This project is a **Login and Signup System** built using **HTML, CSS, and JavaScript**.
-It provides a simple user interface for authentication where users can create an account and log in.
+It provides a simple user interface for authentication where users can create an account and log 
 
 The current version focuses on **frontend functionality and form validation**, while future updates will integrate **PHP and a database** to make the system fully functional.
 
